@@ -31,7 +31,7 @@
             "filename": "awesome-security-feed.opml"
         },
         "wechatRSS": {
-            "enabled": true,
+            "enabled": false,
             "url": "https://raw.githubusercontent.com/ttttmr/Wechat2RSS/master/static/opml/sec.opml",
             "filename": "wechatRSS.opml"
         },
@@ -66,7 +66,7 @@
             "key": "xxxxxxxxxx"
         },
         "telegram":{
-            "enabled": false,
+            "enabled": true,
             "secrets": "TELEGRAM_KEY",
             "chat_id": ["-799557100"],
             "key": "xxxxxxxxxx"
