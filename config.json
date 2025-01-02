@@ -68,7 +68,7 @@
         "telegram":{
             "enabled": true,
             "secrets": "TELEGRAM_KEY",
-            "chat_id": ["-799557100"],
+            "chat_id": ["-1002349692059"],
             "key": "xxxxxxxxxx"
         },
         "mail": {
